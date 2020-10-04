@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-directions",
+  "name": "tailwindcss-directions",
   "version": "1.0.0",
   "description": "Simple plugin to add directions variants to tailwindcss",
   "main": "index.js",
