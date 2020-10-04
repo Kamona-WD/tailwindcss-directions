@@ -1,0 +1,26 @@
+{
+  "name": "tailwind-directions",
+  "version": "1.0.0",
+  "description": "Simple plugin to add directions variants to tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamona-WD/tailwindcss-directions.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "plugin",
+    "directions",
+    "postcss"
+  ],
+  "author": "Kamona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kamona-WD/tailwindcss-directions/issues"
+  },
+  "homepage": "https://github.com/Kamona-WD/tailwindcss-directions#readme"
+}
