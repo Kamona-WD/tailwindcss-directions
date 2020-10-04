@@ -4,7 +4,7 @@ Simple plugin to add directions variants to tailwindcss
 
 # Installation
 
-`npm install tailwindcss-dirrctions -D`
+`npm install tailwind-dirrctions -D`
 
 # Usage
 
