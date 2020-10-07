@@ -18,7 +18,7 @@ In your Tailwind config, simply require() the plugin and specify the directions 
   variants: {
     margin: ['responsive', 'directions'],
     padding: ['responsive', 'directions'],
-    // add variants you need like float, transform, display etc...
+    // add what you need to variants like float, transform, display etc...
   },
   plugins: [
     require('tailwindcss-dirrctions')
