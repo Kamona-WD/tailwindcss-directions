@@ -21,13 +21,14 @@ In your Tailwind config, simply require() the plugin and specify the directions 
     margin: ['responsive', 'directions'],
     padding: ['responsive', 'directions'],
     // add what you need like float, translate, transform ....
-    // [see default variants reference](https://tailwindcss.com/docs/configuring-variants#default-variants-reference)
   },
   plugins: [
     require('tailwindcss-dirrctions')
   ]
 }
 ```
+
+[see default variants reference](https://tailwindcss.com/docs/configuring-variants#default-variants-reference)
 
 ...and you'll get similar classes:
 
