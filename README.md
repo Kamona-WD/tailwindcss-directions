@@ -51,3 +51,20 @@ In your Tailwind config, simply require() the plugin and specify the directions 
   }
 }
 ```
+
+... Don't forget to add dir in your html tag
+
+```
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+  <!-- head content -->
+  </head>
+  <body>
+      <!-- body content -->
+  </body>
+</html>
+
+```
+
+[##This plugin inspiried by tailwindcss-localized](https://github.com/hdodov/tailwindcss-localized#tailwindcss-localized)
