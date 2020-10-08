@@ -67,4 +67,4 @@ In your Tailwind config, simply require() the plugin and specify the directions 
 
 ```
 
-[##This plugin inspiried by tailwindcss-localized](https://github.com/hdodov/tailwindcss-localized#tailwindcss-localized)
+## [This plugin inspiried by tailwindcss-localized](https://github.com/hdodov/tailwindcss-localized#tailwindcss-localized)
