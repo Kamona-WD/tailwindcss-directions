@@ -4,7 +4,7 @@ Simple plugin to add directions variants to tailwindcss
 
 # Installation
 
-`npm install tailwindcss-dirrctions -D`
+`npm install tailwindcss-directions -D`
 
 # Usage
 
@@ -23,7 +23,7 @@ In your Tailwind config, simply require() the plugin and specify the directions 
     // add what you need like float, translate, transform ....
   },
   plugins: [
-    require('tailwindcss-dirrctions')
+    require('tailwindcss-directions')
   ]
 }
 ```
