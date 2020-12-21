@@ -17,7 +17,7 @@ In your Tailwind config, simply require() the plugin and specify the directions 
   },
   variants: {
     alignContent: ['responsive', 'directions'],
-    alignItems: ['responsive', 'directions],
+    alignItems: ['responsive', 'directions'],
     margin: ['responsive', 'directions'],
     padding: ['responsive', 'directions'],
     // add what you need like float, translate, transform ....
